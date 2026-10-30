@@ -1,21 +1,16 @@
-# Big Day Hotels | Lago de Tota
+BIG DAY HOTELS | LAGO DE TOTA
 
-Sitio web estático reconstruido a partir de las capturas de referencia entregadas. Incluye versión adaptable a móviles, navegación por secciones, selector español/inglés y formulario de solicitud de reserva.
+PAQUETE CON ARCHIVOS SUELTOS
+Todos los archivos están en la raíz; no hay subcarpetas.
 
-## Publicar en GitHub Pages
+PUBLICACIÓN EN GITHUB PAGES
+1. Descomprime este ZIP en tu computador.
+2. Abre el repositorio de GitHub donde publicas BigDayHotels.
+3. Sube TODOS los archivos de esta carpeta directamente a la raíz del repositorio.
+4. Si GitHub pregunta si deseas reemplazar archivos, confirma para actualizar el sitio.
+5. Espera a que GitHub Pages termine el despliegue y recarga la página.
 
-1. Crea un repositorio en GitHub.
-2. Sube `index.html`, `styles.css`, `script.js` y la carpeta `assets` a la raíz del repositorio.
-3. Abre **Settings → Pages**.
-4. En **Build and deployment**, selecciona **Deploy from a branch**.
-5. Selecciona `main` y `/ (root)`, guarda y espera la publicación.
-
-## Antes de publicar al público
-
-- Confirmar tarifas, capacidades, servicios y políticas de cada alojamiento.
-- Verificar que el teléfono, correo y ubicación sean los definitivos.
-- Sustituir o validar las fotografías que se usarán en la versión pública.
-- El formulario prepara una solicitud por correo; no consulta inventario, no procesa pagos y no confirma automáticamente una reserva.
-- Las reseñas se reprodujeron desde las capturas de referencia; confirmar autorización y vigencia antes de publicarlas.
-
-No incluye widget flotante de WhatsApp ni etiquetas de demo/rediseño.
+IMPORTANTE
+- No crees una carpeta assets.
+- index.html, styles.css, script.js y todas las imágenes deben quedar al mismo nivel.
+- Las rutas de imágenes ya están ajustadas para esta estructura plana.
